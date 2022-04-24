@@ -14,3 +14,4 @@ this package is needed to run the dAIgnose interface app.
 - `sudo python -m pip install dist/<filename>.whl`
 - check that the installation was successful:
 	- if `inference.py --help` does not raise errors, the installation was successful
+
